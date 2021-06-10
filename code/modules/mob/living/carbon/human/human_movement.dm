@@ -1,5 +1,5 @@
 /mob/living/carbon/human/movement_delay()
-	. = 0
+	. = 4
 	. += ..()
 	. += config.human_delay
 	. += dna.species.movement_delay(src)
