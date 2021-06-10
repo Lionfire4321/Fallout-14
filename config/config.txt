@@ -1,5 +1,5 @@
 ## Server name: This appears at the top of the screen in-game. Remove the # infront of SERVERNAME and replace 'tgstation' with the name of your choice
-SERVERNAME [MRP][Unofficial] Fallout 13: A New Dawn
+SERVERNAME [HRP][Unofficial] Fallout 13: Outcasts Lazarus
 
 ## Station name: The name of the station as it is referred to in-game. If commented out, the game will generate a random name instead.
 STATIONNAME Hidalgo County, Texas Wastes, 2291
